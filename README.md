@@ -1,3 +1,3 @@
 # furry-pancake
 
-## climate change-related biological sequence data BOOM.
+## Climate change-related biological sequence data
